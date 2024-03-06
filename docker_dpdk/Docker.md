@@ -21,7 +21,7 @@ sudo docker run hello-world
 ### Project Directory
 
 1. Create a new project directory on Host
-2. Cope project content inside folder
+2. Copy project content inside folder
     1. dpdk.sh
     2. dpdk-22.11.4.tar.xz
     3. dpdk-kmods.tar.xz
